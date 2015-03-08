@@ -1,0 +1,1 @@
+A taskbar-sized (40px high) spectrum analyser which sits behind the taskbar. Currently hard-coded to 1920 pixels wide.
